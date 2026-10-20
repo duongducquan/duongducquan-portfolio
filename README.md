@@ -27,7 +27,7 @@
 | ✉️ Email | [quand7194@gmail.com](mailto:quand7194@gmail.com) |
 | 📍 Địa chỉ | Thủ Đức, TP.HCM, Việt Nam |
 | 🐙 GitHub | [github.com/duongducquan](https://github.com/duongducquan) |
-| 📘 Facebook | [facebook.com/duongducquancutidz285](https://www.facebook.com/duongducquancutidz285) |
+| 📘 Facebook |https://www.facebook.com/duongducquan.dev
 
 ---
 
