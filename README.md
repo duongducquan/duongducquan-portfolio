@@ -54,8 +54,7 @@ Nếu bạn quan tâm đến lập trình, công nghệ phần mềm, AI và ph�
 | ✉️ Email | [quand7194@gmail.com](mailto:quand7194@gmail.com) |
 | 📍 Địa chỉ | Thủ Đức, TP.HCM, Việt Nam |
 | 🐙 GitHub | [github.com/duongducquan](https://github.com/duongducquan) |
-| 📘 Facebook |https://www.facebook.com/duongducquan.dev
-
+| 📘 Facebook |https://www.facebook.com/duongducquan285
 ---
 
 ## 🛠️ Tech Stack
