@@ -2,7 +2,34 @@
 # 👨‍💻 Dương Đức Quân — Full Stack Developer
 
 > **Full Stack Developer** tại Thủ Đức, TP.HCM, Việt Nam
+🚀 **DƯƠNG ĐỨC QUÂN | LẬP TRÌNH VIÊN CÔNG NGHỆ — DUONGDUCQUAN285**
 
+Xin chào mọi người! 👋 Mình là **Dương Đức Quân**, người yêu thích công nghệ, lập trình và phát triển các giải pháp phần mềm.
+
+💻 **Dương Đức Quân — Công nghệ cho cuộc sống**
+
+🔥 Những lĩnh vực mình quan tâm:
+- 🌐 Phát triển website với HTML, CSS, JavaScript và ReactJS.
+- ⚙️ Backend với Node.js, Express và REST API.
+- 🗄️ Thiết kế cơ sở dữ liệu MySQL và SQL.
+- 🔐 Tìm hiểu xác thực JWT và bảo mật ứng dụng.
+- 🤖 Phát triển chatbot AI và tích hợp API.
+- 🔄 Xây dựng hệ thống realtime với Socket.IO.
+- 🚀 Tìm hiểu Docker, CI/CD và triển khai ứng dụng.
+
+Mình luôn hướng đến việc học hỏi công nghệ mới, tối ưu mã nguồn và xây dựng những sản phẩm thực tế phục vụ cuộc sống.
+
+🌟 **Kết nối với Dương Đức Quân tại Facebook:**
+
+👉[ https://www.facebook.com/duongducquan285](url)
+
+Nếu bạn quan tâm đến lập trình, công nghệ phần mềm, AI và phát triển website, hãy kết nối để cùng chia sẻ kiến thức và kinh nghiệm nhé!
+
+📌 **Từ khóa thương hiệu:** Dương Đức Quân, Duong Duc Quan, duongducquan285, lập trình viên, công nghệ thông tin, phát triển website, lập trình web, AI Developer.
+
+❤️ Cảm ơn mọi người đã ghé thăm trang cá nhân của mình!
+
+#DuongDucQuan #duongducquan285 #DươngĐứcQuân #LapTrinhVien #CongNgheThongTin #LapTrinhWeb #WebDeveloper #ReactJS #NodeJS #AI #SoftwareDeveloper
 ---
 
 ## 🌐 Portfolio
